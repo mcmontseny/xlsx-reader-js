@@ -1,0 +1,23 @@
+{
+  "name": "xlsx-reader",
+  "version": "1.0.0",
+  "description": "XLSX to API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcmontseny/xlsx-reader-js.git"
+  },
+  "author": "Marc Casamitjana i Montseny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcmontseny/xlsx-reader-js/issues"
+  },
+  "homepage": "https://github.com/mcmontseny/xlsx-reader-js#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "xlsx": "^0.16.9"
+  }
+}
